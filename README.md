@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AkiraShougun
+- 👀 I’m interested in web development, deep learning and number theory (analytic number theory, algorithmic number theory)
+- 🌱 I’m currently honing my skills in programming
+- 💞️ I’m open for collaboration
